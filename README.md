@@ -8,3 +8,8 @@
 
 ## システムの設計図
 <img width="1801" height="272" alt="スクリーンショット 2025-09-06 190016" src="https://github.com/user-attachments/assets/a73ac7fa-2e4f-4031-8319-0432cd0fd1fa" />
+
+
+## コード説明
+app.py          ← アプリの見た目・表示
+country_api.py  ← 国データを取ってくる処理
